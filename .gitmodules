@@ -1,3 +1,6 @@
 [submodule "library/mbedtls"]
 	path = library/mbedtls
 	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "library/coreHTTP"]
+	path = library/coreHTTP
+	url = https://github.com/FreeRTOS/coreHTTP.git
